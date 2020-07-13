@@ -1,7 +1,7 @@
 # feature-importance
 A deep dive into measuring feature importance in machine learning.
 
-![Feature importance methods](images/featimp.png | width=150)
+<img src="images/featimp.png" width="500"/>
 
 In machine learning, we often want to know 1) which features are most predictive of a target, and 2) which features contribute most to a given prediction. The former is crucial to knowing which features we can afford to ignore when fitting a model, and the latter is important from a business perspective and model interpretability. Both can be obtained by analyzing the **feature importance** of a dataset.
 
